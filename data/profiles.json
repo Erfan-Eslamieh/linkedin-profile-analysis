@@ -1,0 +1,785 @@
+[
+  {
+    "id": "profile_01",
+    "name": "Erfan Eslamieh",
+    "headline": "Graduate in Cognitive Neuroscience | Cognitive Design at ICSS",
+    "location": "Tehran, Iran",
+    "network": "500+ connections · 851 followers",
+    "about": "I am interested in machine learning and deep learning, data analysis, and working with machine learning algorithms and deploying them as web apps. Currently learning: - 3D websites with Three.js, R3F and WebXR - Machine learning - Deep learning - Natural language processing (NLP) - Computer vision - Transformers and neural network architectures - Generative AI",
+    "skills": [
+      "Python (programming language)",
+      "LLM",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Career coaching",
+      "computer science education",
+      "machine learning",
+      "cognitive science"
+    ],
+    "languages": [
+      "English: full fluency",
+      "German: full professional proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "AI & App Design Team Lead",
+        "company": "allameh tabataba'i university",
+        "start": "April 2026",
+        "end": null,
+        "description": "Leading a small team building a cognitive task assessment application: task design, web app development and ML-based analysis of results."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Institute for Cognitive Science Studies (ICSS)",
+        "degree": "Master of Science (MS)",
+        "field": "Cognitive Design",
+        "start": "2021",
+        "end": null
+      },
+      {
+        "institution": "University of Isfahan",
+        "degree": "Bachelor of Arts (BA)",
+        "field": "German Language and Literature",
+        "start": "2016",
+        "end": "2020"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Commented on a post (10 months ago): replied to a researcher asking about cognitive test software, explaining that one vendor sells individual tests (e.g. an n-back variant) with a license serial that unlocks only that test.",
+        "mentioned": []
+      },
+      {
+        "text": "Commented on the same post (10 months ago): recommended PsychoPy and OpenSesame (free, Python-based, no-code but scriptable) and Experiment Builder (paid, available at universities) for task design; mentioned buying an n-back test for their own thesis from a behavioral-science test shop.",
+        "mentioned": []
+      }
+    ]
+  },
+  {
+    "id": "profile_02",
+    "name": "Sara Karimi",
+    "headline": "Senior ML Engineer at Parsa Data Systems | MLOps and Model Serving",
+    "location": "Tehran, Iran",
+    "network": "500+ connections · 1,240 followers",
+    "about": "ML engineer focused on taking models from notebooks to reliable production services. I enjoy building shared tooling so that other teams can ship models faster.",
+    "skills": [
+      "Python (programming language)",
+      "NumPy",
+      "Machine Learning",
+      "LLM",
+      "PyTorch",
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "FastAPI"
+    ],
+    "interests": [
+      "MLOps",
+      "open-source tooling",
+      "women in tech",
+      "tech meetups",
+      "hiking"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: full professional proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Senior ML Engineer",
+        "company": "Parsa Data Systems",
+        "start": "2022",
+        "end": null,
+        "description": "Leads model-serving infrastructure and the internal feature store for the ML Platform team."
+      },
+      {
+        "title": "ML Engineer",
+        "company": "Kavosh Labs",
+        "start": "2019",
+        "end": "2022",
+        "description": "Built recommendation and demand-forecasting models; introduced experiment tracking with MLflow."
+      },
+      {
+        "title": "Data Science Intern",
+        "company": "Baran Tech",
+        "start": "2018",
+        "end": "2019",
+        "description": "Prototyped churn prediction models on subscription data."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Sharif University of Technology",
+        "degree": "Master of Science (MS)",
+        "field": "Artificial Intelligence",
+        "start": "2017",
+        "end": "2019"
+      },
+      {
+        "institution": "University of Isfahan",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Computer Engineering",
+        "start": "2013",
+        "end": "2017"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Shared a post (2 months ago): wrote about moving a ranking model from batch to real-time serving; Reza Mohammadi commented with questions about latency budgets.",
+        "mentioned": [
+          "Reza Mohammadi"
+        ]
+      },
+      {
+        "text": "Commented on a post by Fatemeh Hosseini (1 month ago): discussed how data quality checks in dashboards can catch feature drift early.",
+        "mentioned": [
+          "Fatemeh Hosseini"
+        ]
+      },
+      {
+        "text": "Reacted to a post by Hossein Jafari (3 weeks ago) about fine-tuning a Persian language model.",
+        "mentioned": [
+          "Hossein Jafari"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_03",
+    "name": "Mohammad Ahmadi",
+    "headline": "Backend Developer at Parsa Data Systems | Go, PostgreSQL, Event-driven Systems",
+    "location": "Tehran, Iran",
+    "network": "380 connections · 410 followers",
+    "about": "Backend developer who likes clean APIs and boring, reliable infrastructure. Currently working on the event pipeline that feeds analytics and ML.",
+    "skills": [
+      "Go",
+      "Python (programming language)",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Docker",
+      "REST APIs",
+      "Microservices"
+    ],
+    "interests": [
+      "Distributed systems",
+      "open-source",
+      "chess",
+      "football"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: professional working proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Backend Developer",
+        "company": "Parsa Data Systems",
+        "start": "2023",
+        "end": null,
+        "description": "Builds and maintains event-ingestion services and internal REST APIs."
+      },
+      {
+        "title": "Backend Developer",
+        "company": "Arvand Soft",
+        "start": "2020",
+        "end": "2023",
+        "description": "Developed payment and order services; migrated a monolith to microservices."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Amirkabir University of Technology",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Computer Engineering",
+        "start": "2016",
+        "end": "2020"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Posted (6 weeks ago): shared lessons from designing an event schema that both Backend Engineering and Data Analytics can rely on; Amir Sadeghi and Zahra Mousavi commented.",
+        "mentioned": [
+          "Zahra Mousavi",
+          "Amir Sadeghi"
+        ]
+      },
+      {
+        "text": "Commented on a post by Reza Mohammadi (1 month ago) about service reliability targets.",
+        "mentioned": [
+          "Reza Mohammadi"
+        ]
+      },
+      {
+        "text": "Replied to Ali Rezaei (3 weeks ago) in a discussion on API pagination strategies.",
+        "mentioned": [
+          "Ali Rezaei"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_04",
+    "name": "Reza Mohammadi",
+    "headline": "Engineering Manager at Parsa Data Systems | ML Platform and Backend",
+    "location": "Tehran, Iran",
+    "network": "500+ connections · 2,030 followers",
+    "about": "Engineering manager leading both the ML Platform and Backend Engineering teams. I care about clear ownership, reliable systems and growing engineers.",
+    "skills": [
+      "Engineering Management",
+      "System Design",
+      "Python (programming language)",
+      "Go",
+      "Cloud Architecture",
+      "Agile Methodologies",
+      "Hiring",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Engineering leadership",
+      "system design",
+      "mentoring",
+      "running"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: full professional proficiency",
+      "German: professional working proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Engineering Manager",
+        "company": "Parsa Data Systems",
+        "start": "2021",
+        "end": null,
+        "description": "Manages two engineering teams and coordinates roadmaps between ML, backend and product."
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Arvand Soft",
+        "start": "2016",
+        "end": "2021",
+        "description": "Led the platform team; mentored junior developers including future backend hires."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Sepid Data",
+        "start": "2014",
+        "end": "2016",
+        "description": "Built data-collection services for market research products."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technical University of Munich",
+        "degree": "Master of Science (MS)",
+        "field": "Informatics",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "institution": "Amirkabir University of Technology",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Computer Engineering",
+        "start": "2008",
+        "end": "2012"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Commented on a post by Zahra Mousavi (3 weeks ago) about release planning across teams.",
+        "mentioned": [
+          "Zahra Mousavi"
+        ]
+      },
+      {
+        "text": "Shared a post by Sara Karimi (2 months ago) on real-time model serving and added notes on operational readiness.",
+        "mentioned": [
+          "Sara Karimi"
+        ]
+      },
+      {
+        "text": "Commented on a post by Mohammad Ahmadi (1 month ago) about service reliability targets, and thanked Maryam Nazari for help with the team's hiring round.",
+        "mentioned": [
+          "Mohammad Ahmadi",
+          "Maryam Nazari"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_05",
+    "name": "Fatemeh Hosseini",
+    "headline": "Data Analyst at Parsa Data Systems | SQL, Statistics, Dashboards",
+    "location": "Tehran, Iran",
+    "network": "290 connections · 360 followers",
+    "about": "Data analyst who turns product questions into measurable experiments and clear dashboards. Interested in making data quality visible to everyone.",
+    "skills": [
+      "SQL",
+      "Python (programming language)",
+      "NumPy",
+      "Pandas",
+      "Tableau",
+      "Power BI",
+      "A/B Testing",
+      "Statistics"
+    ],
+    "interests": [
+      "Data visualization",
+      "statistics",
+      "board games",
+      "photography"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: professional working proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Data Analyst",
+        "company": "Parsa Data Systems",
+        "start": "2023",
+        "end": null,
+        "description": "Owns product analytics dashboards and A/B test analysis for the Data Analytics team."
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Kavosh Labs",
+        "start": "2021",
+        "end": "2023",
+        "description": "Built reporting pipelines and weekly business reviews."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Tehran",
+        "degree": "Master of Science (MS)",
+        "field": "Statistics",
+        "start": "2019",
+        "end": "2021"
+      },
+      {
+        "institution": "Shiraz University",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Statistics",
+        "start": "2015",
+        "end": "2019"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Posted (1 month ago): wrote about adding data quality checks to dashboards; Sara Karimi commented.",
+        "mentioned": [
+          "Sara Karimi"
+        ]
+      },
+      {
+        "text": "Commented on a post by Zahra Mousavi (3 weeks ago) about measuring feature adoption.",
+        "mentioned": [
+          "Zahra Mousavi"
+        ]
+      },
+      {
+        "text": "Reacted to a post by Amir Sadeghi (2 weeks ago) on data modeling for analytics.",
+        "mentioned": [
+          "Amir Sadeghi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_06",
+    "name": "Ali Rezaei",
+    "headline": "Senior Backend Developer at Parsa Data Systems | Java, gRPC, Kubernetes",
+    "location": "Isfahan, Iran",
+    "network": "420 connections · 530 followers",
+    "about": "Remote senior backend developer working on core services and internal platforms. I enjoy performance tuning and API design.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "gRPC",
+      "Python (programming language)",
+      "Redis"
+    ],
+    "interests": [
+      "API design",
+      "performance engineering",
+      "cycling",
+      "tea culture"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: professional working proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Senior Backend Developer",
+        "company": "Parsa Data Systems",
+        "start": "2022",
+        "end": null,
+        "description": "Develops core services for user accounts and billing, working remotely from Isfahan."
+      },
+      {
+        "title": "Backend Developer",
+        "company": "Nikan Digital",
+        "start": "2018",
+        "end": "2022",
+        "description": "Built customer-facing APIs and an internal notification system."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Isfahan",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Computer Engineering",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Commented on a post by Mohammad Ahmadi (6 weeks ago) about event schemas for downstream teams.",
+        "mentioned": [
+          "Mohammad Ahmadi"
+        ]
+      },
+      {
+        "text": "Replied to Zahra Mousavi (1 month ago) in a thread about delivery estimates for the billing project.",
+        "mentioned": [
+          "Zahra Mousavi"
+        ]
+      },
+      {
+        "text": "Reacted to a post by Reza Mohammadi (3 weeks ago) on reliability targets.",
+        "mentioned": [
+          "Reza Mohammadi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_07",
+    "name": "Zahra Mousavi",
+    "headline": "Product Manager at Parsa Data Systems | Analytics and Platform Products",
+    "location": "Tehran, Iran",
+    "network": "500+ connections · 1,010 followers",
+    "about": "Product manager working between the Data Analytics and Backend Engineering teams. I like turning vague needs into clear, measurable roadmaps.",
+    "skills": [
+      "Product Management",
+      "Roadmapping",
+      "SQL",
+      "A/B Testing",
+      "Stakeholder Management",
+      "Agile Methodologies",
+      "Data Analysis"
+    ],
+    "interests": [
+      "Product strategy",
+      "user research",
+      "reading",
+      "travel"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: full professional proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Product Manager",
+        "company": "Parsa Data Systems",
+        "start": "2021",
+        "end": null,
+        "description": "Owns the analytics product roadmap and coordinates delivery with backend and data teams."
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "Nikan Digital",
+        "start": "2019",
+        "end": "2021",
+        "description": "Launched a self-service reporting feature used by business customers."
+      },
+      {
+        "title": "Product Analyst",
+        "company": "Nikan Digital",
+        "start": "2017",
+        "end": "2019",
+        "description": "Defined product metrics and supported experiment design."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Tehran",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Industrial Engineering",
+        "start": "2013",
+        "end": "2017"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Posted (3 weeks ago): wrote about release planning across data and backend teams; Reza Mohammadi and Fatemeh Hosseini commented.",
+        "mentioned": [
+          "Reza Mohammadi",
+          "Fatemeh Hosseini"
+        ]
+      },
+      {
+        "text": "Commented on a post by Mohammad Ahmadi (6 weeks ago) about shared event schemas.",
+        "mentioned": [
+          "Mohammad Ahmadi"
+        ]
+      },
+      {
+        "text": "Shared a post by Amir Sadeghi (1 week ago) on analytics data modeling.",
+        "mentioned": [
+          "Amir Sadeghi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_08",
+    "name": "Hossein Jafari",
+    "headline": "ML Engineer at Parsa Data Systems | NLP and LLMs",
+    "location": "Tabriz, Iran",
+    "network": "260 connections · 340 followers",
+    "about": "ML engineer working on language models for Persian text. I like open-source tools and sharing small experiments.",
+    "skills": [
+      "Python (programming language)",
+      "NumPy",
+      "Machine Learning",
+      "LLM",
+      "NLP",
+      "Transformers",
+      "PyTorch",
+      "Hugging Face"
+    ],
+    "interests": [
+      "Persian NLP",
+      "open-source",
+      "chess",
+      "behavioral data modelling"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: professional working proficiency",
+      "Arabic: elementary proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "ML Engineer",
+        "company": "Parsa Data Systems",
+        "start": "2024",
+        "end": null,
+        "description": "Builds NLP pipelines and fine-tunes language models for internal products within the ML Platform team."
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Baran Tech",
+        "start": "2022",
+        "end": "2024",
+        "description": "Developed text classification and search relevance models."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Tabriz",
+        "degree": "Master of Science (MS)",
+        "field": "Artificial Intelligence",
+        "start": "2022",
+        "end": "2024"
+      },
+      {
+        "institution": "University of Tabriz",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Computer Engineering",
+        "start": "2018",
+        "end": "2022"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Posted (3 weeks ago): shared an experiment on fine-tuning a Persian language model; Sara Karimi reacted.",
+        "mentioned": [
+          "Sara Karimi"
+        ]
+      },
+      {
+        "text": "Replied to a comment by Erfan Eslamieh (3 weeks ago) about open-source tools such as PsychoPy and OpenSesame for building cognitive tasks.",
+        "mentioned": [
+          "Erfan Eslamieh"
+        ]
+      },
+      {
+        "text": "Commented on a post by Sara Karimi (2 months ago) about real-time model serving.",
+        "mentioned": [
+          "Sara Karimi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_09",
+    "name": "Maryam Nazari",
+    "headline": "Talent Acquisition Specialist at Parsa Data Systems | Technical Hiring",
+    "location": "Mashhad, Iran",
+    "network": "500+ connections · 780 followers",
+    "about": "Recruiter for engineering and data roles, focused on candidate experience and honest communication. I work closely with engineering managers.",
+    "skills": [
+      "Talent Acquisition",
+      "Technical Recruiting",
+      "Employer Branding",
+      "Interviewing",
+      "HR Analytics",
+      "Onboarding"
+    ],
+    "interests": [
+      "Hiring",
+      "employer branding",
+      "psychology",
+      "calligraphy"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: professional working proficiency",
+      "German: elementary proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Talent Acquisition Specialist",
+        "company": "Parsa Data Systems",
+        "start": "2022",
+        "end": null,
+        "description": "Runs end-to-end hiring for ML, backend and analytics roles in the Product & People team."
+      },
+      {
+        "title": "HR Coordinator",
+        "company": "Sepid Data",
+        "start": "2019",
+        "end": "2022",
+        "description": "Coordinated onboarding and interview scheduling for a growing team."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ferdowsi University of Mashhad",
+        "degree": "Master of Arts (MA)",
+        "field": "Industrial and Organizational Psychology",
+        "start": "2018",
+        "end": "2020"
+      },
+      {
+        "institution": "Ferdowsi University of Mashhad",
+        "degree": "Bachelor of Arts (BA)",
+        "field": "Psychology",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Commented on a post by Reza Mohammadi (1 month ago) about his team's hiring round and interview process.",
+        "mentioned": [
+          "Reza Mohammadi"
+        ]
+      },
+      {
+        "text": "Reacted to a post by Zahra Mousavi (3 weeks ago) on release planning.",
+        "mentioned": [
+          "Zahra Mousavi"
+        ]
+      },
+      {
+        "text": "Congratulated Hossein Jafari (2 weeks ago) on his work anniversary.",
+        "mentioned": [
+          "Hossein Jafari"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profile_10",
+    "name": "Amir Sadeghi",
+    "headline": "Analytics Engineer at Parsa Data Systems | SQL, dbt, Data Modeling",
+    "location": "Tehran, Iran",
+    "network": "310 connections · 290 followers",
+    "about": "Analytics engineer building reliable, well-documented data models so that analysts and product teams can trust the numbers.",
+    "skills": [
+      "SQL",
+      "dbt",
+      "Python (programming language)",
+      "Power BI",
+      "Apache Airflow",
+      "Data Modeling",
+      "Statistics"
+    ],
+    "interests": [
+      "Data modeling",
+      "analytics engineering",
+      "open data",
+      "cinema"
+    ],
+    "languages": [
+      "Persian: native",
+      "English: professional working proficiency"
+    ],
+    "experiences": [
+      {
+        "title": "Analytics Engineer",
+        "company": "Parsa Data Systems",
+        "start": "2024",
+        "end": null,
+        "description": "Builds dbt models and data pipelines for the Data Analytics team."
+      },
+      {
+        "title": "BI Developer",
+        "company": "Dena Cloud",
+        "start": "2022",
+        "end": "2024",
+        "description": "Developed Power BI reports and maintained a data warehouse."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Tehran",
+        "degree": "Master of Science (MS)",
+        "field": "Data Science",
+        "start": "2022",
+        "end": "2024"
+      },
+      {
+        "institution": "Allameh Tabataba'i University",
+        "degree": "Bachelor of Science (BS)",
+        "field": "Statistics",
+        "start": "2018",
+        "end": "2022"
+      }
+    ],
+    "activity": [
+      {
+        "text": "Posted (2 weeks ago): wrote about data modeling patterns for analytics; Zahra Mousavi shared it.",
+        "mentioned": [
+          "Zahra Mousavi"
+        ]
+      },
+      {
+        "text": "Commented on a post by Fatemeh Hosseini (1 month ago) about SQL conventions for dashboards.",
+        "mentioned": [
+          "Fatemeh Hosseini"
+        ]
+      },
+      {
+        "text": "Commented on a post by Mohammad Ahmadi (6 weeks ago) about event schemas.",
+        "mentioned": [
+          "Mohammad Ahmadi"
+        ]
+      }
+    ]
+  }
+]

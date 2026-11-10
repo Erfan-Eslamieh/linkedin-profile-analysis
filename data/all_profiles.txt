@@ -1,0 +1,427 @@
+===== PROFILE 1 =====
+Erfan Eslamieh
+Headline: Graduate in Cognitive Neuroscience | Cognitive Design at ICSS
+Location: Tehran, Iran
+Network: 500+ connections · 851 followers
+
+About
+I am interested in machine learning and deep learning, data analysis, and
+working with machine learning algorithms and deploying them as web apps.
+Currently learning:
+- 3D websites with Three.js, R3F and WebXR
+- Machine learning
+- Deep learning
+- Natural language processing (NLP)
+- Computer vision
+- Transformers and neural network architectures
+- Generative AI
+
+Experience
+- AI & App Design Team Lead, allameh tabataba'i university, April 2026 - present
+  Leading a small team building a cognitive task assessment application:
+  task design, web app development and ML-based analysis of results.
+
+Education
+- Institute for Cognitive Science Studies (ICSS), Master of Science (MS),
+  Cognitive Design, 2021 - present.
+  Skills: NumPy, Machine Learning and 16 more
+- University of Isfahan, Bachelor of Arts (BA), German Language and
+  Literature, 2016 - 2020.
+  Skills: German as a Foreign Language, German and 2 more
+
+Skills
+Python (programming language), LLM, NumPy, Machine Learning
+
+Languages
+- English: full fluency
+- German: full professional proficiency
+
+Interests
+Career coaching, computer science education, machine learning, cognitive science
+
+Recent Activity
+- Commented on a post (10 months ago): replied to a researcher asking about
+  cognitive test software, explaining that one vendor sells individual tests
+  (e.g. an n-back variant) with a license serial that unlocks only that test.
+- Commented on the same post (10 months ago): recommended PsychoPy and
+  OpenSesame (free, Python-based, no-code but scriptable) and Experiment
+  Builder (paid, available at universities) for task design; mentioned buying
+  an n-back test for their own thesis from a behavioral-science test shop.
+
+===== PROFILE 2 =====
+Sara Karimi
+Headline: Senior ML Engineer at Parsa Data Systems | MLOps and Model Serving
+Location: Tehran, Iran
+Network: 500+ connections · 1,240 followers
+
+About
+ML engineer focused on taking models from notebooks to reliable production
+services. I enjoy building shared tooling so that other teams can ship
+models faster.
+
+Experience
+- Senior ML Engineer, Parsa Data Systems, 2022 - present
+  Leads model-serving infrastructure and the internal feature store for the
+  ML Platform team.
+- ML Engineer, Kavosh Labs, 2019 - 2022
+  Built recommendation and demand-forecasting models; introduced experiment
+  tracking with MLflow.
+- Data Science Intern, Baran Tech, 2018 - 2019
+  Prototyped churn prediction models on subscription data.
+
+Education
+- Sharif University of Technology, Master of Science (MS), Artificial
+  Intelligence, 2017 - 2019
+- University of Isfahan, Bachelor of Science (BS), Computer Engineering,
+  2013 - 2017
+
+Skills
+Python (programming language), NumPy, Machine Learning, LLM, PyTorch,
+MLflow, Docker, Kubernetes, FastAPI
+
+Languages
+- Persian: native
+- English: full professional proficiency
+
+Interests
+MLOps, open-source tooling, women in tech, tech meetups, hiking
+
+Recent Activity
+- Shared a post (2 months ago): wrote about moving a ranking model from batch
+  to real-time serving; Reza Mohammadi commented with questions about latency
+  budgets.
+- Commented on a post by Fatemeh Hosseini (1 month ago): discussed how data
+  quality checks in dashboards can catch feature drift early.
+- Reacted to a post by Hossein Jafari (3 weeks ago) about fine-tuning a
+  Persian language model.
+
+===== PROFILE 3 =====
+Mohammad Ahmadi
+Headline: Backend Developer at Parsa Data Systems | Go, PostgreSQL, Event-driven Systems
+Location: Tehran, Iran
+Network: 380 connections · 410 followers
+
+About
+Backend developer who likes clean APIs and boring, reliable infrastructure.
+Currently working on the event pipeline that feeds analytics and ML.
+
+Experience
+- Backend Developer, Parsa Data Systems, 2023 - present
+  Builds and maintains event-ingestion services and internal REST APIs.
+- Backend Developer, Arvand Soft, 2020 - 2023
+  Developed payment and order services; migrated a monolith to
+  microservices.
+
+Education
+- Amirkabir University of Technology, Bachelor of Science (BS), Computer
+  Engineering, 2016 - 2020
+
+Skills
+Go, Python (programming language), PostgreSQL, Redis, Kafka, Docker,
+REST APIs, Microservices
+
+Languages
+- Persian: native
+- English: professional working proficiency
+
+Interests
+Distributed systems, open-source, chess, football
+
+Recent Activity
+- Posted (6 weeks ago): shared lessons from designing an event schema that
+  both Backend Engineering and Data Analytics can rely on; Amir Sadeghi and
+  Zahra Mousavi commented.
+- Commented on a post by Reza Mohammadi (1 month ago) about service
+  reliability targets.
+- Replied to Ali Rezaei (3 weeks ago) in a discussion on API pagination
+  strategies.
+
+===== PROFILE 4 =====
+Reza Mohammadi
+Headline: Engineering Manager at Parsa Data Systems | ML Platform and Backend
+Location: Tehran, Iran
+Network: 500+ connections · 2,030 followers
+
+About
+Engineering manager leading both the ML Platform and Backend Engineering
+teams. I care about clear ownership, reliable systems and growing engineers.
+
+Experience
+- Engineering Manager, Parsa Data Systems, 2021 - present
+  Manages two engineering teams and coordinates roadmaps between ML,
+  backend and product.
+- Senior Software Engineer, Arvand Soft, 2016 - 2021
+  Led the platform team; mentored junior developers including future
+  backend hires.
+- Software Engineer, Sepid Data, 2014 - 2016
+  Built data-collection services for market research products.
+
+Education
+- Technical University of Munich, Master of Science (MS), Informatics,
+  2012 - 2014
+- Amirkabir University of Technology, Bachelor of Science (BS), Computer
+  Engineering, 2008 - 2012
+
+Skills
+Engineering Management, System Design, Python (programming language), Go,
+Cloud Architecture, Agile Methodologies, Hiring, Machine Learning
+
+Languages
+- Persian: native
+- English: full professional proficiency
+- German: professional working proficiency
+
+Interests
+Engineering leadership, system design, mentoring, running
+
+Recent Activity
+- Commented on a post by Zahra Mousavi (3 weeks ago) about release planning
+  across teams.
+- Shared a post by Sara Karimi (2 months ago) on real-time model serving and
+  added notes on operational readiness.
+- Commented on a post by Mohammad Ahmadi (1 month ago) about service
+  reliability targets, and thanked Maryam Nazari for help with the team's
+  hiring round.
+
+===== PROFILE 5 =====
+Fatemeh Hosseini
+Headline: Data Analyst at Parsa Data Systems | SQL, Statistics, Dashboards
+Location: Tehran, Iran
+Network: 290 connections · 360 followers
+
+About
+Data analyst who turns product questions into measurable experiments and
+clear dashboards. Interested in making data quality visible to everyone.
+
+Experience
+- Data Analyst, Parsa Data Systems, 2023 - present
+  Owns product analytics dashboards and A/B test analysis for the Data
+  Analytics team.
+- Data Analyst, Kavosh Labs, 2021 - 2023
+  Built reporting pipelines and weekly business reviews.
+
+Education
+- University of Tehran, Master of Science (MS), Statistics, 2019 - 2021
+- Shiraz University, Bachelor of Science (BS), Statistics, 2015 - 2019
+
+Skills
+SQL, Python (programming language), NumPy, Pandas, Tableau, Power BI,
+A/B Testing, Statistics
+
+Languages
+- Persian: native
+- English: professional working proficiency
+
+Interests
+Data visualization, statistics, board games, photography
+
+Recent Activity
+- Posted (1 month ago): wrote about adding data quality checks to dashboards;
+  Sara Karimi commented.
+- Commented on a post by Zahra Mousavi (3 weeks ago) about measuring feature
+  adoption.
+- Reacted to a post by Amir Sadeghi (2 weeks ago) on data modeling for
+  analytics.
+
+===== PROFILE 6 =====
+Ali Rezaei
+Headline: Senior Backend Developer at Parsa Data Systems | Java, gRPC, Kubernetes
+Location: Isfahan, Iran
+Network: 420 connections · 530 followers
+
+About
+Remote senior backend developer working on core services and internal
+platforms. I enjoy performance tuning and API design.
+
+Experience
+- Senior Backend Developer, Parsa Data Systems, 2022 - present
+  Develops core services for user accounts and billing, working remotely
+  from Isfahan.
+- Backend Developer, Nikan Digital, 2018 - 2022
+  Built customer-facing APIs and an internal notification system.
+
+Education
+- University of Isfahan, Bachelor of Science (BS), Computer Engineering,
+  2014 - 2018
+
+Skills
+Java, Spring Boot, PostgreSQL, Docker, Kubernetes, gRPC, Python
+(programming language), Redis
+
+Languages
+- Persian: native
+- English: professional working proficiency
+
+Interests
+API design, performance engineering, cycling, tea culture
+
+Recent Activity
+- Commented on a post by Mohammad Ahmadi (6 weeks ago) about event schemas
+  for downstream teams.
+- Replied to Zahra Mousavi (1 month ago) in a thread about delivery
+  estimates for the billing project.
+- Reacted to a post by Reza Mohammadi (3 weeks ago) on reliability targets.
+
+===== PROFILE 7 =====
+Zahra Mousavi
+Headline: Product Manager at Parsa Data Systems | Analytics and Platform Products
+Location: Tehran, Iran
+Network: 500+ connections · 1,010 followers
+
+About
+Product manager working between the Data Analytics and Backend Engineering
+teams. I like turning vague needs into clear, measurable roadmaps.
+
+Experience
+- Product Manager, Parsa Data Systems, 2021 - present
+  Owns the analytics product roadmap and coordinates delivery with backend
+  and data teams.
+- Associate Product Manager, Nikan Digital, 2019 - 2021
+  Launched a self-service reporting feature used by business customers.
+- Product Analyst, Nikan Digital, 2017 - 2019
+  Defined product metrics and supported experiment design.
+
+Education
+- University of Tehran, Bachelor of Science (BS), Industrial Engineering,
+  2013 - 2017
+
+Skills
+Product Management, Roadmapping, SQL, A/B Testing, Stakeholder Management,
+Agile Methodologies, Data Analysis
+
+Languages
+- Persian: native
+- English: full professional proficiency
+
+Interests
+Product strategy, user research, reading, travel
+
+Recent Activity
+- Posted (3 weeks ago): wrote about release planning across data and backend
+  teams; Reza Mohammadi and Fatemeh Hosseini commented.
+- Commented on a post by Mohammad Ahmadi (6 weeks ago) about shared event
+  schemas.
+- Shared a post by Amir Sadeghi (1 week ago) on analytics data modeling.
+
+===== PROFILE 8 =====
+Hossein Jafari
+Headline: ML Engineer at Parsa Data Systems | NLP and LLMs
+Location: Tabriz, Iran
+Network: 260 connections · 340 followers
+
+About
+ML engineer working on language models for Persian text. I like open-source
+tools and sharing small experiments.
+
+Experience
+- ML Engineer, Parsa Data Systems, 2024 - present
+  Builds NLP pipelines and fine-tunes language models for internal products
+  within the ML Platform team.
+- Machine Learning Engineer, Baran Tech, 2022 - 2024
+  Developed text classification and search relevance models.
+
+Education
+- University of Tabriz, Master of Science (MS), Artificial Intelligence,
+  2022 - 2024
+- University of Tabriz, Bachelor of Science (BS), Computer Engineering,
+  2018 - 2022
+
+Skills
+Python (programming language), NumPy, Machine Learning, LLM, NLP,
+Transformers, PyTorch, Hugging Face
+
+Languages
+- Persian: native
+- English: professional working proficiency
+- Arabic: elementary proficiency
+
+Interests
+Persian NLP, open-source, chess, behavioral data modelling
+
+Recent Activity
+- Posted (3 weeks ago): shared an experiment on fine-tuning a Persian
+  language model; Sara Karimi reacted.
+- Replied to a comment by Erfan Eslamieh (3 weeks ago) about open-source
+  tools such as PsychoPy and OpenSesame for building cognitive tasks.
+- Commented on a post by Sara Karimi (2 months ago) about real-time model
+  serving.
+
+===== PROFILE 9 =====
+Maryam Nazari
+Headline: Talent Acquisition Specialist at Parsa Data Systems | Technical Hiring
+Location: Mashhad, Iran
+Network: 500+ connections · 780 followers
+
+About
+Recruiter for engineering and data roles, focused on candidate experience
+and honest communication. I work closely with engineering managers.
+
+Experience
+- Talent Acquisition Specialist, Parsa Data Systems, 2022 - present
+  Runs end-to-end hiring for ML, backend and analytics roles in the
+  Product & People team.
+- HR Coordinator, Sepid Data, 2019 - 2022
+  Coordinated onboarding and interview scheduling for a growing team.
+
+Education
+- Ferdowsi University of Mashhad, Master of Arts (MA), Industrial and
+  Organizational Psychology, 2018 - 2020
+- Ferdowsi University of Mashhad, Bachelor of Arts (BA), Psychology,
+  2014 - 2018
+
+Skills
+Talent Acquisition, Technical Recruiting, Employer Branding, Interviewing,
+HR Analytics, Onboarding
+
+Languages
+- Persian: native
+- English: professional working proficiency
+- German: elementary proficiency
+
+Interests
+Hiring, employer branding, psychology, calligraphy
+
+Recent Activity
+- Commented on a post by Reza Mohammadi (1 month ago) about his team's
+  hiring round and interview process.
+- Reacted to a post by Zahra Mousavi (3 weeks ago) on release planning.
+- Congratulated Hossein Jafari (2 weeks ago) on his work anniversary.
+
+===== PROFILE 10 =====
+Amir Sadeghi
+Headline: Analytics Engineer at Parsa Data Systems | SQL, dbt, Data Modeling
+Location: Tehran, Iran
+Network: 310 connections · 290 followers
+
+About
+Analytics engineer building reliable, well-documented data models so that
+analysts and product teams can trust the numbers.
+
+Experience
+- Analytics Engineer, Parsa Data Systems, 2024 - present
+  Builds dbt models and data pipelines for the Data Analytics team.
+- BI Developer, Dena Cloud, 2022 - 2024
+  Developed Power BI reports and maintained a data warehouse.
+
+Education
+- University of Tehran, Master of Science (MS), Data Science, 2022 - 2024
+- Allameh Tabataba'i University, Bachelor of Science (BS), Statistics,
+  2018 - 2022
+
+Skills
+SQL, dbt, Python (programming language), Power BI, Apache Airflow,
+Data Modeling, Statistics
+
+Languages
+- Persian: native
+- English: professional working proficiency
+
+Interests
+Data modeling, analytics engineering, open data, cinema
+
+Recent Activity
+- Posted (2 weeks ago): wrote about data modeling patterns for analytics;
+  Zahra Mousavi shared it.
+- Commented on a post by Fatemeh Hosseini (1 month ago) about SQL
+  conventions for dashboards.
+- Commented on a post by Mohammad Ahmadi (6 weeks ago) about event schemas.

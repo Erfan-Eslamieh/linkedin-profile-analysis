@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "name": "Zahra Mousavi",
+      "cluster": 0,
+      "degree": 0.67,
+      "betweenness": 0.15,
+      "pagerank": 0.15
+    },
+    {
+      "name": "Sara Karimi",
+      "cluster": 1,
+      "degree": 0.56,
+      "betweenness": 0.12,
+      "pagerank": 0.12
+    },
+    {
+      "name": "Erfan Eslamieh",
+      "cluster": 1,
+      "degree": 0.44,
+      "betweenness": 0.07,
+      "pagerank": 0.05
+    },
+    {
+      "name": "Reza Mohammadi",
+      "cluster": 0,
+      "degree": 0.56,
+      "betweenness": 0.07,
+      "pagerank": 0.14
+    },
+    {
+      "name": "Ali Rezaei",
+      "cluster": 2,
+      "degree": 0.56,
+      "betweenness": 0.07,
+      "pagerank": 0.08
+    },
+    {
+      "name": "Amir Sadeghi",
+      "cluster": 3,
+      "degree": 0.44,
+      "betweenness": 0.06,
+      "pagerank": 0.1
+    },
+    {
+      "name": "Maryam Nazari",
+      "cluster": 4,
+      "degree": 0.33,
+      "betweenness": 0.05,
+      "pagerank": 0.07
+    },
+    {
+      "name": "Hossein Jafari",
+      "cluster": 1,
+      "degree": 0.33,
+      "betweenness": 0.04,
+      "pagerank": 0.08
+    },
+    {
+      "name": "Mohammad Ahmadi",
+      "cluster": 2,
+      "degree": 0.44,
+      "betweenness": 0.02,
+      "pagerank": 0.12
+    },
+    {
+      "name": "Fatemeh Hosseini",
+      "cluster": 3,
+      "degree": 0.33,
+      "betweenness": 0.02,
+      "pagerank": 0.1
+    }
+  ],
+  "edges": [
+    [
+      "Erfan Eslamieh",
+      "Hossein Jafari",
+      2
+    ],
+    [
+      "Erfan Eslamieh",
+      "Amir Sadeghi",
+      1
+    ],
+    [
+      "Erfan Eslamieh",
+      "Ali Rezaei",
+      1
+    ],
+    [
+      "Erfan Eslamieh",
+      "Sara Karimi",
+      1
+    ],
+    [
+      "Sara Karimi",
+      "Reza Mohammadi",
+      4
+    ],
+    [
+      "Sara Karimi",
+      "Fatemeh Hosseini",
+      5
+    ],
+    [
+      "Sara Karimi",
+      "Hossein Jafari",
+      7
+    ],
+    [
+      "Sara Karimi",
+      "Ali Rezaei",
+      1
+    ],
+    [
+      "Mohammad Ahmadi",
+      "Zahra Mousavi",
+      4
+    ],
+    [
+      "Mohammad Ahmadi",
+      "Amir Sadeghi",
+      4
+    ],
+    [
+      "Mohammad Ahmadi",
+      "Reza Mohammadi",
+      6
+    ],
+    [
+      "Mohammad Ahmadi",
+      "Ali Rezaei",
+      4
+    ],
+    [
+      "Reza Mohammadi",
+      "Zahra Mousavi",
+      4
+    ],
+    [
+      "Reza Mohammadi",
+      "Maryam Nazari",
+      5
+    ],
+    [
+      "Reza Mohammadi",
+      "Ali Rezaei",
+      2
+    ],
+    [
+      "Fatemeh Hosseini",
+      "Zahra Mousavi",
+      5
+    ],
+    [
+      "Fatemeh Hosseini",
+      "Amir Sadeghi",
+      5
+    ],
+    [
+      "Ali Rezaei",
+      "Zahra Mousavi",
+      3
+    ],
+    [
+      "Zahra Mousavi",
+      "Amir Sadeghi",
+      5
+    ],
+    [
+      "Zahra Mousavi",
+      "Maryam Nazari",
+      2
+    ],
+    [
+      "Hossein Jafari",
+      "Maryam Nazari",
+      2
+    ]
+  ]
+}
